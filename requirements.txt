@@ -1,0 +1,10 @@
+pandas>=2.1.1
+numpy>=1.24.3
+datasets
+
+networkx>=3.1
+plotly>=5.18.0
+
+python-ta~=2.9.1
+hypothesis~=6.82.6
+pytest~=7.4.0
